@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Calculadora-Matriz-2x2/static/css/main.46dbd35b.css",
+    "main.js": "/Calculadora-Matriz-2x2/static/js/main.38a58210.js",
+    "static/js/453.6f2a1ef8.chunk.js": "/Calculadora-Matriz-2x2/static/js/453.6f2a1ef8.chunk.js",
+    "index.html": "/Calculadora-Matriz-2x2/index.html",
+    "main.46dbd35b.css.map": "/Calculadora-Matriz-2x2/static/css/main.46dbd35b.css.map",
+    "main.38a58210.js.map": "/Calculadora-Matriz-2x2/static/js/main.38a58210.js.map",
+    "453.6f2a1ef8.chunk.js.map": "/Calculadora-Matriz-2x2/static/js/453.6f2a1ef8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46dbd35b.css",
+    "static/js/main.38a58210.js"
+  ]
+}
